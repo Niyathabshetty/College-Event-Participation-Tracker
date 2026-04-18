@@ -71,7 +71,7 @@ Develop a SQL-based system to track student participation in college events and 
 
 <br><br>
 
-<img src="screenshots/Participation.png" width="400"/><br>
+<img src="screenshots/Participation_Table.png" width="400"/><br>
 <b>Participation Table</b>
 
 <br><br>
