@@ -90,4 +90,3 @@ Develop a SQL-based system to track student participation in college events and 
 <b>Event-wise Participation Count</b>
 
 </div>
----
