@@ -61,28 +61,33 @@ Develop a SQL-based system to track student participation in college events and 
 ## Output Screenshots
 <div align="center">
 
-<img src="screenshots/output1.png" width="400"/><br>
+<img src="screenshots/Students_Table.png" width="400"/><br>
 <b>Students Table</b>
 
 <br><br>
 
-<img src="screenshots/output2.png" width="400"/><br>
+<img src="screenshots/Events_Table.png" width="400"/><br>
 <b>Events Table</b>
 
 <br><br>
 
-<img src="screenshots/output3.png" width="400"/><br>
+<img src="screenshots/Participation.png" width="400"/><br>
 <b>Participation Table</b>
 
 <br><br>
 
-<img src="screenshots/output4.png" width="400"/><br>
+<img src="screenshots/query1.png" width="400"/><br>
 <b>Most Popular Event</b>
 
 <br><br>
 
-<img src="screenshots/output5.png" width="400"/><br>
+<img src="screenshots/query2.png" width="400"/><br>
 <b>Students with Highest Participation</b>
+
+<br><br>
+
+<img src="screenshots/query3.png" width="400"/><br>
+<b>Event-wise Participation Count</b>
 
 </div>
 ---
